@@ -1,7 +1,5 @@
 # Starbucks-Capstone-Project
 
-[Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) 
-
 # Installation 
 - Python versions 3.*.
 - Python libraries:
@@ -25,5 +23,3 @@ This project part of my Data Science Nanodegree, and the objective is to try to 
 # Results
 The main findings of the code can be found 
 
-# Licensing, Author, Acknowledgements
-Credits must be given to Udacity for the starter codes and Starbucks for provding the data used by this project.
